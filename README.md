@@ -7,9 +7,9 @@ Application available for authorized users to manage the hotel. The dashboard pr
 login: nilama5558@intady.com
 password: password
 
-## page listed on netlify:
+## App deploy on Vercel:
 
-[Neflify link - Dream Stay](https://dream-stay.netlify.app/)
+[Dream Stay](https://dream-stay-chi.vercel.app/login)
 
 ## This project is build with:
 
