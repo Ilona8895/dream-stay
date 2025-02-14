@@ -19,7 +19,7 @@ password: password
 ## Managing state
 
 - Context API - for managing UI State (dark mode)
-- React Router - for managing Remote State
+- React Query - for managing Remote State
 
 ## Custom hooks
 
